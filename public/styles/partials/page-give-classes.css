@@ -55,9 +55,9 @@
     margin-top: 6.4rem;
 }
 
-#page-give-classes .input-block+.input-block,
-#page-give-classes .input-block+.textarea-block 
-#page-give-classes .select-block+.input-block {
+#page-give-classes main fieldset .input-block+.input-block,
+#page-give-classes main fieldset .input-block+.textarea-block,
+#page-give-classes main fieldset .select-block+.input-block {
     margin-top: 2.4rem;
 }
 
