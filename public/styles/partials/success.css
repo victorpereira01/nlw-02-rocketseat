@@ -1,0 +1,64 @@
+#success .container {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--color-primary-darker);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#success .img-background {
+    width: 100vw;
+    height: 100vh;
+
+    position: relative;
+}
+
+#success .content {
+    position: absolute;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#success .success-icon {
+    margin-bottom: 0.8rem;
+} 
+
+#success h1 {
+    margin: 1.4rem;
+    color: var(--color-title-in-primary);
+}
+
+#success p {
+    color: var(--color-text-in-primary);
+}
+
+#success a button {
+    width: 32rem;
+    height: 4.6rem;
+   
+    background: var(--color-secondary);
+    color: var(--color-button-text);
+    border: 0;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    font: 700 1.6rem Archivo;
+
+    text-decoration: none;
+
+    transition: 0.2s;
+    margin-top: 6.4rem;
+}
+
+#success button:hover {
+    background-color: var(--color-secondary-dark);
+}
+
+
+
+
