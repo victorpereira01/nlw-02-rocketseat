@@ -14,8 +14,6 @@
 </p>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leon-carvalho/proffy">
-
    <a href="https://github.com/victorpereira01/nlw02-rocketseat/stargazers">
     <img alt="Stars" src="https://img.shields.io/github/stars/victorpereira01/nlw02-rocketseat?style=social">
   </a>
