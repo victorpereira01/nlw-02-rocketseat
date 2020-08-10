@@ -17,3 +17,8 @@ server.use(express.static("public"))
     .get("/success", pageSuccess)
     .post("/save-classes", saveClasses)
     .listen(5000);
+
+
+    //  DESAFIO 02 ---> COrreção de bugs
+    // nao permitir o usuario colocar um novo campode dia e horario, se o dia e hora anterior estiver vazio **
+    // funcionalidade de deletar um campo de dia e hora
