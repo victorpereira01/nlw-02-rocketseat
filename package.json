@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/victorpereira01/nlw-02-rocketseat#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nunjucks": "^3.2.2",
     "sqlite-async": "^1.1.0"
   },
